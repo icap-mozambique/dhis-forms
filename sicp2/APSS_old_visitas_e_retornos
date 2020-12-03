@@ -1,0 +1,747 @@
+<table border="1" width="650">
+	<tbody>
+		<tr>
+			<th colspan="7" style="text-align: left;">FICHA DE UATS - UNIDADE DE ACONSELHAMENTO E TESTAGEM EM SA&Uacute;DE
+			<ul style="margin-left: 40px;">
+				<li><span style="font-size:13px;color:#F00;">Atenc&atilde;o: ao preencher esta ficha clique no bot&atilde;o executar valida&ccedil;&atilde;o para confirmar que os dados est&atilde;o bem preenchidos.</span></li>
+			</ul>
+			</th>
+		</tr>
+		<tr>
+			<td colspan="3">&nbsp;</td>
+			<td colspan="2" style="text-align: center;">Historial de Testagem</td>
+			<td colspan="2" style="text-align: center;">US seguimento cl&iacute;nico</td>
+		</tr>
+		<tr>
+			<td colspan="3">&nbsp;</td>
+			<td style="text-align: center;">1&ordf; Vez testado</td>
+			<td style="text-align: center;">Posit.(+) no Passado</td>
+			<td style="text-align: center;">Nesta US</td>
+			<td style="text-align: center;">Outra US</td>
+		</tr>
+		<tr>
+			<td rowspan="4" width="229"><span style="font-size:14px;"><strong>[A]</strong> Individuos aconselhados e testados para HIV</span></td>
+			<td width="127"><strong>[A1]</strong> Masculino</td>
+			<td style="text-align: center;" width="50"><input id="zU7diaGTl7n-Ackmf8YWiCs-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) Masculino" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) Masculino ]" /></td>
+			<td style="text-align: center;" width="47"><input id="blnliL2M69w-Ackmf8YWiCs-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Retestagem) Masculino" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Retestagem) Masculino ]" /></td>
+			<td style="text-align: center;" width="57"><input id="rNr82jnYOdm-Ackmf8YWiCs-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Recusa) Masculino" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Recusa) Masculino ]" /></td>
+			<td style="text-align: center;" width="46"><input id="E9xmENyFnCN-Ackmf8YWiCs-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Nesta US) Masculino" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Nesta US) Masculino ]" /></td>
+			<td style="text-align: center;" width="48"><input id="ShJmjwXtyd0-Ackmf8YWiCs-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Outra US) Masculino" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Outra US) Masculino ]" /></td>
+		</tr>
+		<tr>
+			<td><strong>[A2]</strong> Feminino</td>
+			<td style="text-align: center;"><input id="zU7diaGTl7n-UZGyuha0y7h-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) Feminino" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) Feminino ]" /></td>
+			<td style="text-align: center;"><input id="blnliL2M69w-UZGyuha0y7h-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Retestagem) Feminino" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Retestagem) Feminino ]" /></td>
+			<td style="text-align: center;"><input id="rNr82jnYOdm-UZGyuha0y7h-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Recusa) Feminino" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Recusa) Feminino ]" /></td>
+			<td style="text-align: center;"><input id="E9xmENyFnCN-UZGyuha0y7h-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Nesta US) Feminino" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Nesta US) Feminino ]" /></td>
+			<td style="text-align: center;"><input id="ShJmjwXtyd0-UZGyuha0y7h-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Outra US) Feminino" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Outra US) Feminino ]" /></td>
+		</tr>
+		<tr>
+			<td width="127"><strong>[A3]</strong> 0-14 anos</td>
+			<td style="text-align: center;"><input id="zU7diaGTl7n-G73992ZoZvL-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) 0-14 anos" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) 0-14 anos ]" /></td>
+			<td style="text-align: center;"><input id="blnliL2M69w-G73992ZoZvL-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Retestagem) 0-14 anos" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Retestagem) 0-14 anos ]" /></td>
+			<td style="text-align: center;"><input id="rNr82jnYOdm-G73992ZoZvL-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Recusa) 0-14 anos" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Recusa) 0-14 anos ]" /></td>
+			<td style="text-align: center;"><input id="E9xmENyFnCN-G73992ZoZvL-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Nesta US) 0-14 anos" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Nesta US) 0-14 anos ]" /></td>
+			<td style="text-align: center;"><input id="ShJmjwXtyd0-G73992ZoZvL-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Outra US) 0-14 anos" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Outra US) 0-14 anos ]" /></td>
+		</tr>
+		<tr>
+			<td><strong>[A4]</strong> 15 ou +anos</td>
+			<td style="text-align: center;"><input id="zU7diaGTl7n-i2DHWE8Ttsm-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) 15 ou +anos" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) 15 ou +anos ]" /></td>
+			<td style="text-align: center;"><input id="blnliL2M69w-i2DHWE8Ttsm-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Retestagem) 15 ou +anos" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Retestagem) 15 ou +anos ]" /></td>
+			<td style="text-align: center;"><input id="rNr82jnYOdm-i2DHWE8Ttsm-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Recusa) 15 ou +anos" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Recusa) 15 ou +anos ]" /></td>
+			<td style="text-align: center;"><input id="E9xmENyFnCN-i2DHWE8Ttsm-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Nesta US) 15 ou +anos" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Nesta US) 15 ou +anos ]" /></td>
+			<td style="text-align: center;"><input id="ShJmjwXtyd0-i2DHWE8Ttsm-val" name="entryfield" style="width:40px;////" title="ATS: aconselhados e testados para HIV (GeneroIdade) (Outra US) 15 ou +anos" value="[ ATS: aconselhados e testados para HIV (GeneroIdade) (Outra US) 15 ou +anos ]" /></td>
+		</tr>
+		<tr>
+			<td rowspan="3"><span style="font-size:14px;"><strong>[D]</strong> Resultado do teste de HIV</span></td>
+			<td><strong>[D1]</strong> Positivo</td>
+			<td style="text-align: center;"><input id="TaiAi1HFiMB-sKv3t08kkyQ-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV Positivo" value="[ ATS: resultado do teste de HIV Positivo ]" /></td>
+			<td style="text-align: center;"><input id="aXMdlDS3BnX-sKv3t08kkyQ-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Retestagem) Positivo" value="[ ATS: resultado do teste de HIV (Retestagem) Positivo ]" /></td>
+			<td style="text-align: center;"><input id="Z99nDn9naVg-sKv3t08kkyQ-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Recusa) Positivo" value="[ ATS: resultado do teste de HIV (Recusa) Positivo ]" /></td>
+			<td style="text-align: center;"><input id="Xl8a8ros55Q-sKv3t08kkyQ-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Nesta US) Positivo" value="[ ATS: resultado do teste de HIV (Nesta US) Positivo ]" /></td>
+			<td style="text-align: center;"><input id="OJcvn25pEZA-sKv3t08kkyQ-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Outra US) Positivo" value="[ ATS: resultado do teste de HIV (Outra US) Positivo ]" /></td>
+		</tr>
+		<tr>
+			<td><strong>[D2]</strong> Negativo</td>
+			<td style="text-align: center;"><input id="TaiAi1HFiMB-oho9pzFoTYr-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV Negativo" value="[ ATS: resultado do teste de HIV Negativo ]" /></td>
+			<td style="text-align: center;"><input id="aXMdlDS3BnX-oho9pzFoTYr-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Retestagem) Negativo" value="[ ATS: resultado do teste de HIV (Retestagem) Negativo ]" /></td>
+			<td style="text-align: center;"><input id="Z99nDn9naVg-oho9pzFoTYr-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Recusa) Negativo" value="[ ATS: resultado do teste de HIV (Recusa) Negativo ]" /></td>
+			<td style="text-align: center;"><input id="Xl8a8ros55Q-oho9pzFoTYr-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Nesta US) Negativo" value="[ ATS: resultado do teste de HIV (Nesta US) Negativo ]" /></td>
+			<td style="text-align: center;"><input id="OJcvn25pEZA-oho9pzFoTYr-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Outra US) Negativo" value="[ ATS: resultado do teste de HIV (Outra US) Negativo ]" /></td>
+		</tr>
+		<tr>
+			<td><strong>[D3]</strong> Indeterminado</td>
+			<td style="text-align: center;"><input id="TaiAi1HFiMB-IxhwRim72EY-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV Indeterminado" value="[ ATS: resultado do teste de HIV Indeterminado ]" /></td>
+			<td style="text-align: center;"><input id="aXMdlDS3BnX-IxhwRim72EY-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Retestagem) Indeterminado" value="[ ATS: resultado do teste de HIV (Retestagem) Indeterminado ]" /></td>
+			<td style="text-align: center;"><input id="Z99nDn9naVg-IxhwRim72EY-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Recusa) Indeterminado" value="[ ATS: resultado do teste de HIV (Recusa) Indeterminado ]" /></td>
+			<td style="text-align: center;"><input id="Xl8a8ros55Q-IxhwRim72EY-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Nesta US) Indeterminado" value="[ ATS: resultado do teste de HIV (Nesta US) Indeterminado ]" /></td>
+			<td style="text-align: center;"><input id="OJcvn25pEZA-IxhwRim72EY-val" name="entryfield" style="width:40px;////" title="ATS: resultado do teste de HIV (Outra US) Indeterminado" value="[ ATS: resultado do teste de HIV (Outra US) Indeterminado ]" /></td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1"><span style="font-size:14px;"><strong>[E]</strong> Inscritos no Servi&ccedil;o TARV</span></td>
+			<td style="text-align: center;"><input id="z4rxiRFfl6t-jF6cd1dU990-val" name="entryfield" style="width:40px;////" title="ATS: inscritos no serviço TARV" value="[ ATS: inscritos no serviço TARV ]" /></td>
+			<td style="text-align: center;"><input id="RGU4cYA01yj-jF6cd1dU990-val" name="entryfield" style="width:40px;////" title="ATS: inscritos no serviço TARV (Retestagem)" value="[ ATS: inscritos no serviço TARV (Retestagem) ]" /></td>
+			<td style="text-align: center;"><input id="Bvzc9FQ0VrW-jF6cd1dU990-val" name="entryfield" style="width:40px;////" title="ATS: inscritos no serviço TARV (Recusa)" value="[ ATS: inscritos no serviço TARV (Recusa) ]" /></td>
+			<td style="text-align: center;"><input id="OZ725UcVxHy-jF6cd1dU990-val" name="entryfield" style="width:40px;////" title="ATS: inscritos no serviço TARV (Nesta US)" value="[ ATS: inscritos no serviço TARV (Nesta US) ]" /></td>
+			<td style="text-align: center;"><input id="dTeYyFn3OZK-jF6cd1dU990-val" name="entryfield" style="width:40px;////" title="ATS: inscritos no serviço TARV (Outra US)" value="[ ATS: inscritos no serviço TARV (Outra US) ]" /></td>
+		</tr>
+		<tr>
+			<td colspan="7">
+			<table border="1" height="1423" width="100%">
+				<tbody>
+					<tr>
+						<th colspan="9" scope="col" style="text-align: left;">ACT - Acelerando o Tratamento do HIV para Crian&ccedil;as</th>
+					</tr>
+					<tr>
+						<td colspan="5">&nbsp;</td>
+						<td colspan="2" style="text-align: center;">Historial de Testagem</td>
+						<td colspan="2" style="text-align: center;">US seguimento cl&iacute;nico</td>
+					</tr>
+					<tr>
+						<td colspan="5">&nbsp;</td>
+						<td style="text-align: center;">1&ordf; Vez testado</td>
+						<td style="text-align: center;">Posit.(+) no Passado</td>
+						<td style="text-align: center;">Nesta US</td>
+						<td style="text-align: center;">Outra US</td>
+					</tr>
+					<tr>
+						<td rowspan="75" width="20%"><span style="font-size:14px;"><strong>[G]</strong> Resultado do teste de HIV</span></td>
+						<td rowspan="37" width="12%"><strong>[G1]</strong> Masculino</td>
+						<td rowspan="3" width="13%"><strong>[I8] </strong>&lt;1 ano</td>
+						<td width="13%"><strong>[I9]</strong> Positivo</td>
+						<td align="center" width="7%"><input id="tFME2xpgKuc-wUy9ld77nzL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, &lt;1 ano, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, &lt;1 ano, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-wUy9ld77nzL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, &lt;1 ano, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, &lt;1 ano, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-wUy9ld77nzL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, &lt;1 ano, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, &lt;1 ano, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-wUy9ld77nzL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, &lt;1 ano, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, &lt;1 ano, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-wUy9ld77nzL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, &lt;1 ano, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, &lt;1 ano, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[I10] </strong>Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-iGkGbCJHUy8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, &lt;1 ano, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, &lt;1 ano, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-iGkGbCJHUy8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, &lt;1 ano, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, &lt;1 ano, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-iGkGbCJHUy8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, &lt;1 ano, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, &lt;1 ano, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-iGkGbCJHUy8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, &lt;1 ano, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, &lt;1 ano, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-iGkGbCJHUy8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, &lt;1 ano, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, &lt;1 ano, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[I11] </strong>Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-Y7zDF6vNfUJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, &lt;1 ano, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, &lt;1 ano, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-Y7zDF6vNfUJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, &lt;1 ano, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, &lt;1 ano, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-Y7zDF6vNfUJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, &lt;1 ano, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, &lt;1 ano, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-Y7zDF6vNfUJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, &lt;1 ano, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, &lt;1 ano, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-Y7zDF6vNfUJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, &lt;1 ano, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, &lt;1 ano, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[I12] </strong>1 - 4 anos</td>
+						<td width="13%"><strong>[I13]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-DFl1FQYV11Z-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 1-4 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 1-4 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-DFl1FQYV11Z-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 1-4 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 1-4 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-DFl1FQYV11Z-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 1-4 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 1-4 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-DFl1FQYV11Z-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 1-4 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 1-4 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-DFl1FQYV11Z-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 1-4 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 1-4 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[I14] </strong>Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-QVoy0lv4iay-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 1-4 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 1-4 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-QVoy0lv4iay-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 1-4 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 1-4 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-QVoy0lv4iay-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 1-4 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 1-4 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-QVoy0lv4iay-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 1-4 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 1-4 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-QVoy0lv4iay-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 1-4 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 1-4 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[I15] </strong>Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-L6TVKWDkTSH-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 1-4 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 1-4 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-L6TVKWDkTSH-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 1-4 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 1-4 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-L6TVKWDkTSH-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 1-4 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 1-4 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-L6TVKWDkTSH-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 1-4 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 1-4 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-L6TVKWDkTSH-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 1-4 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 1-4 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[J]</strong> 5-9 anos</td>
+						<td width="13%"><strong>[J1]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-gCcPY76Z4gL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 5-9 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 5-9 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-gCcPY76Z4gL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 5-9 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 5-9 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-gCcPY76Z4gL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 5-9 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 5-9 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-gCcPY76Z4gL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 5-9 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 5-9 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-gCcPY76Z4gL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 5-9 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 5-9 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[J2]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-Q3kwiqn8zfE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 5-9 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 5-9 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-Q3kwiqn8zfE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 5-9 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 5-9 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-Q3kwiqn8zfE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 5-9 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 5-9 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-Q3kwiqn8zfE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 5-9 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 5-9 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-Q3kwiqn8zfE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 5-9 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 5-9 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[J3]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-pt4pdW7WU1h-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 5-9 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 5-9 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-pt4pdW7WU1h-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 5-9 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 5-9 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-pt4pdW7WU1h-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 5-9 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 5-9 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-pt4pdW7WU1h-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 5-9 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 5-9 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-pt4pdW7WU1h-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 5-9 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 5-9 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[K]</strong> 10-14 anos</td>
+						<td width="13%"><strong>[K1]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-VQ0dicg4zMm-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 10-14 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 10-14 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-VQ0dicg4zMm-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 10-14 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 10-14 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-VQ0dicg4zMm-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 10-14 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 10-14 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-VQ0dicg4zMm-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 10-14 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 10-14 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-VQ0dicg4zMm-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 10-14 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 10-14 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[K2]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-fAHgMcLbLog-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 10-14 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 10-14 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-fAHgMcLbLog-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 10-14 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 10-14 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-fAHgMcLbLog-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 10-14 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 10-14 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-fAHgMcLbLog-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 10-14 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 10-14 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-fAHgMcLbLog-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 10-14 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 10-14 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[K3]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-DUzDOi4Dr9T-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 10-14 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 10-14 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-DUzDOi4Dr9T-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 10-14 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 10-14 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-DUzDOi4Dr9T-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 10-14 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 10-14 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-DUzDOi4Dr9T-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 10-14 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 10-14 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-DUzDOi4Dr9T-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 10-14 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 10-14 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[L]</strong> 15-19 anos</td>
+						<td width="13%"><strong>[L1]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-dL0MTz0Stvt-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 15-19 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 15-19 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-dL0MTz0Stvt-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 15-19 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 15-19 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-dL0MTz0Stvt-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 15-19 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 15-19 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-dL0MTz0Stvt-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 15-19 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 15-19 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-dL0MTz0Stvt-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 15-19 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 15-19 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[L2]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-mqRnMQ7qpSa-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 15-19 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 15-19 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-mqRnMQ7qpSa-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 15-19 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 15-19 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-mqRnMQ7qpSa-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 15-19 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 15-19 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-mqRnMQ7qpSa-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 15-19 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 15-19 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-mqRnMQ7qpSa-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 15-19 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 15-19 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[L3]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-C3ZhAwGPr2W-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 15-19 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 15-19 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-C3ZhAwGPr2W-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 15-19 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 15-19 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-C3ZhAwGPr2W-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 15-19 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 15-19 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-C3ZhAwGPr2W-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 15-19 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 15-19 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-C3ZhAwGPr2W-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 15-19 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 15-19 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[M]</strong> 20-24 anos</td>
+						<td width="13%"><strong>[M1]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-VBzTRW32W7C-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 20-24 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 20-24 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-VBzTRW32W7C-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 20-24 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 20-24 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-VBzTRW32W7C-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 20-24 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 20-24 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-VBzTRW32W7C-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 20-24 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 20-24 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-VBzTRW32W7C-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 20-24 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 20-24 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[M2]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-s7eDUNHOSik-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 20-24 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 20-24 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-s7eDUNHOSik-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 20-24 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 20-24 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-s7eDUNHOSik-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 20-24 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 20-24 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-s7eDUNHOSik-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 20-24 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 20-24 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-s7eDUNHOSik-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 20-24 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 20-24 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[M3]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-fFQ7W75uX9m-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 20-24 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 20-24 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-fFQ7W75uX9m-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 20-24 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 20-24 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-fFQ7W75uX9m-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 20-24 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 20-24 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-fFQ7W75uX9m-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 20-24 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 20-24 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-fFQ7W75uX9m-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 20-24 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 20-24 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td colspan="3">&nbsp;</td>
+						<td style="text-align: center;">1&ordf; Vez testado</td>
+						<td style="text-align: center;">Posit.(+) no Passado</td>
+						<td style="text-align: center;">Nesta US</td>
+						<td style="text-align: center;">Outra US</td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[X1]</strong> 25-29 anos</td>
+						<td width="13%"><strong>[X2]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-tb8PdCEpUke-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 25-29 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 25-29 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-tb8PdCEpUke-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 25-29 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 25-29 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-tb8PdCEpUke-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 25-29 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 25-29 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-tb8PdCEpUke-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 25-29 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 25-29 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-tb8PdCEpUke-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 25-29 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 25-29 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[X3]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-SmFSBeMJQDq-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 25-29 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 25-29 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-SmFSBeMJQDq-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 25-29 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 25-29 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-SmFSBeMJQDq-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 25-29 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 25-29 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-SmFSBeMJQDq-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 25-29 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 25-29 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-SmFSBeMJQDq-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 25-29 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 25-29 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[X4]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-zIWBPn3Efwy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 25-29 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 25-29 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-zIWBPn3Efwy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 25-29 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 25-29 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-zIWBPn3Efwy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 25-29 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 25-29 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-zIWBPn3Efwy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 25-29 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 25-29 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-zIWBPn3Efwy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 25-29 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 25-29 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[X9]</strong> 30-34 anos</td>
+						<td width="13%"><strong>[X10]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-rC3pbl5ECFG-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 30-34 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 30-34 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-rC3pbl5ECFG-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 30-34 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 30-34 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-rC3pbl5ECFG-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 30-34 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 30-34 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-rC3pbl5ECFG-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 30-34 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 30-34 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-rC3pbl5ECFG-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 30-34 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 30-34 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[X11]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-fcuI0rqEhvr-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 30-34 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 30-34 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-fcuI0rqEhvr-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 30-34 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 30-34 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-fcuI0rqEhvr-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 30-34 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 30-34 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-fcuI0rqEhvr-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 30-34 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 30-34 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-fcuI0rqEhvr-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 30-34 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 30-34 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[X12]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-UDBx7KakRnJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 30-34 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 30-34 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-UDBx7KakRnJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 30-34 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 30-34 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-UDBx7KakRnJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 30-34 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 30-34 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-UDBx7KakRnJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 30-34 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 30-34 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-UDBx7KakRnJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 30-34 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 30-34 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[X13]</strong> 35-39 anos</td>
+						<td width="13%"><strong>[X14]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-pPkgT66sHCv-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 35-39 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 35-39 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-pPkgT66sHCv-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 35-39 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 35-39 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-pPkgT66sHCv-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 35-39 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 35-39 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-pPkgT66sHCv-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 35-39 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 35-39 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-pPkgT66sHCv-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 35-39 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 35-39 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[X15]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-adzGYbt2Tes-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 35-39 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 35-39 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-adzGYbt2Tes-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 35-39 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 35-39 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-adzGYbt2Tes-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 35-39 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 35-39 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-adzGYbt2Tes-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 35-39 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 35-39 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-adzGYbt2Tes-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 35-39 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 35-39 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[X16]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-VJAHCoAQTeD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 35-39 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 35-39 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-VJAHCoAQTeD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 35-39 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 35-39 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-VJAHCoAQTeD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 35-39 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 35-39 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-VJAHCoAQTeD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 35-39 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 35-39 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-VJAHCoAQTeD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 35-39 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 35-39 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[X17]</strong> 40-44 anos</td>
+						<td width="13%"><strong>[X18]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-l3pPLWgR7rk-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 40-44 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 40-44 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-l3pPLWgR7rk-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 40-44 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 40-44 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-l3pPLWgR7rk-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 40-44 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 40-44 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-l3pPLWgR7rk-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 40-44 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 40-44 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-l3pPLWgR7rk-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 40-44 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 40-44 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[X19]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-cJK2TcL6fK3-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 40-44 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 40-44 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-cJK2TcL6fK3-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 40-44 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 40-44 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-cJK2TcL6fK3-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 40-44 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 40-44 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-cJK2TcL6fK3-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 40-44 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 40-44 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-cJK2TcL6fK3-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 40-44 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 40-44 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[X20]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-XR4qqVILTe7-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 40-44 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 40-44 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-XR4qqVILTe7-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 40-44 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 40-44 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-XR4qqVILTe7-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 40-44 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 40-44 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-XR4qqVILTe7-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 40-44 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 40-44 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-XR4qqVILTe7-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 40-44 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 40-44 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[X21]</strong> 45-49 anos</td>
+						<td width="13%"><strong>[X22]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-quzzXxx80Yr-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 45-49 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 45-49 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-quzzXxx80Yr-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 45-49 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 45-49 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-quzzXxx80Yr-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 45-49 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 45-49 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-quzzXxx80Yr-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 45-49 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 45-49 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-quzzXxx80Yr-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 45-49 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 45-49 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[X23]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-jTfNdu3sPR7-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 45-49 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 45-49 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-jTfNdu3sPR7-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 45-49 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 45-49 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-jTfNdu3sPR7-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 45-49 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 45-49 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-jTfNdu3sPR7-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 45-49 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 45-49 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-jTfNdu3sPR7-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 45-49 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 45-49 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[X24]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-V0nxMUcF8ky-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 45-49 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 45-49 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-V0nxMUcF8ky-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 45-49 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 45-49 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-V0nxMUcF8ky-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 45-49 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 45-49 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-V0nxMUcF8ky-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 45-49 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 45-49 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-V0nxMUcF8ky-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 45-49 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 45-49 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[O]</strong> 50 ou +anos</td>
+						<td width="13%"><strong>[O1]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-N3VRUj9pUpQ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 50 ou +anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 50 ou +anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-N3VRUj9pUpQ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 50 ou +anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 50 ou +anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-N3VRUj9pUpQ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 50 ou +anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 50 ou +anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-N3VRUj9pUpQ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 50 ou +anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 50 ou +anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-N3VRUj9pUpQ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 50 ou +anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 50 ou +anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[O2]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-gAkZXprVz7p-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 50 ou +anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Masculino, 50 ou +anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-gAkZXprVz7p-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 50 ou +anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 50 ou +anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-gAkZXprVz7p-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 50 ou +anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 50 ou +anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-gAkZXprVz7p-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 50 ou +anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 50 ou +anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-gAkZXprVz7p-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 50 ou +anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 50 ou +anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[O3]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-XMfnOTXrbYy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Masculino, 50 ou +anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Masculino, 50 ou +anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-XMfnOTXrbYy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 50 ou +anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Masculino, 50 ou +anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-XMfnOTXrbYy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 50 ou +anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Masculino, 50 ou +anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-XMfnOTXrbYy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 50 ou +anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Masculino, 50 ou +anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-XMfnOTXrbYy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 50 ou +anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Masculino, 50 ou +anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td colspan="4">&nbsp;</td>
+						<td style="text-align: center;">1&ordf; Vez testado</td>
+						<td style="text-align: center;">Posit.(+) no Passado</td>
+						<td style="text-align: center;">Nesta US</td>
+						<td style="text-align: center;">Outra US</td>
+					</tr>
+					<tr>
+						<td rowspan="37"><strong>[G2]</strong> Feminino</td>
+						<td rowspan="3"><strong>[Q8] </strong>&lt;1 ano</td>
+						<td width="13%"><strong>[Q9]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-UxQhOPbafvP-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, &lt;1 ano, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, &lt;1 ano, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-UxQhOPbafvP-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, &lt;1 ano, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, &lt;1 ano, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-UxQhOPbafvP-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, &lt;1 ano, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, &lt;1 ano, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-UxQhOPbafvP-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, &lt;1 ano, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, &lt;1 ano, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-UxQhOPbafvP-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, &lt;1 ano, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, &lt;1 ano, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Q10] </strong>Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-on3XnNqEi7H-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, &lt;1 ano, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, &lt;1 ano, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-on3XnNqEi7H-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, &lt;1 ano, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, &lt;1 ano, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-on3XnNqEi7H-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, &lt;1 ano, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, &lt;1 ano, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-on3XnNqEi7H-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, &lt;1 ano, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, &lt;1 ano, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-on3XnNqEi7H-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, &lt;1 ano, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, &lt;1 ano, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Q11] </strong>Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-kWoH3uK5KPE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, &lt;1 ano, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, &lt;1 ano, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-kWoH3uK5KPE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, &lt;1 ano, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, &lt;1 ano, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-kWoH3uK5KPE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, &lt;1 ano, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, &lt;1 ano, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-kWoH3uK5KPE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, &lt;1 ano, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, &lt;1 ano, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-kWoH3uK5KPE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, &lt;1 ano, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, &lt;1 ano, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[Q12] </strong>1 - 4 anos</td>
+						<td width="13%"><strong>[Q13]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-l0yUy5lcCLd-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 1-4 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 1-4 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-l0yUy5lcCLd-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 1-4 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 1-4 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-l0yUy5lcCLd-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 1-4 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 1-4 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-l0yUy5lcCLd-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 1-4 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 1-4 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-l0yUy5lcCLd-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 1-4 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 1-4 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Q14] </strong>Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-j11bQNkbwM1-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 1-4 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 1-4 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-j11bQNkbwM1-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 1-4 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 1-4 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-j11bQNkbwM1-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 1-4 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 1-4 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-j11bQNkbwM1-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 1-4 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 1-4 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-j11bQNkbwM1-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 1-4 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 1-4 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Q15] </strong>Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-qiRppqCrycE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 1-4 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 1-4 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-qiRppqCrycE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 1-4 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 1-4 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-qiRppqCrycE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 1-4 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 1-4 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-qiRppqCrycE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 1-4 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 1-4 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-qiRppqCrycE-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 1-4 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 1-4 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[R]</strong> 5-9 anos</td>
+						<td width="13%"><strong>[R1]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-SBsfVuQsIGQ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 5-9 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 5-9 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-SBsfVuQsIGQ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 5-9 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 5-9 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-SBsfVuQsIGQ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 5-9 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 5-9 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-SBsfVuQsIGQ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 5-9 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 5-9 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-SBsfVuQsIGQ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 5-9 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 5-9 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[R2]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-Gq25omW5xHt-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 5-9 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 5-9 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-Gq25omW5xHt-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 5-9 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 5-9 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-Gq25omW5xHt-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 5-9 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 5-9 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-Gq25omW5xHt-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 5-9 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 5-9 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-Gq25omW5xHt-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 5-9 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 5-9 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[R3]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-IMsBtdltDkJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 5-9 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 5-9 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-IMsBtdltDkJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 5-9 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 5-9 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-IMsBtdltDkJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 5-9 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 5-9 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-IMsBtdltDkJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 5-9 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 5-9 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-IMsBtdltDkJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 5-9 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 5-9 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[S]</strong> 10-14 anos</td>
+						<td width="13%"><strong>[S1]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-A4Ddy3Sabpy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 10-14 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 10-14 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-A4Ddy3Sabpy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 10-14 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 10-14 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-A4Ddy3Sabpy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 10-14 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 10-14 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-A4Ddy3Sabpy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 10-14 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 10-14 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-A4Ddy3Sabpy-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 10-14 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 10-14 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[S2]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-pjq99sLwzfi-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 10-14 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 10-14 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-pjq99sLwzfi-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 10-14 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 10-14 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-pjq99sLwzfi-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 10-14 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 10-14 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-pjq99sLwzfi-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 10-14 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 10-14 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-pjq99sLwzfi-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 10-14 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 10-14 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[S3]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-Bu7C1dSSlKa-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 10-14 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 10-14 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-Bu7C1dSSlKa-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 10-14 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 10-14 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-Bu7C1dSSlKa-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 10-14 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 10-14 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-Bu7C1dSSlKa-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 10-14 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 10-14 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-Bu7C1dSSlKa-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 10-14 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 10-14 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[T]</strong> 15-19 anos</td>
+						<td width="13%"><strong>[T1]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-TeFLjHY2fMz-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 15-19 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 15-19 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-TeFLjHY2fMz-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 15-19 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 15-19 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-TeFLjHY2fMz-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 15-19 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 15-19 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-TeFLjHY2fMz-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 15-19 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 15-19 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-TeFLjHY2fMz-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 15-19 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 15-19 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[T2]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-c4W00vYyMeo-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 15-19 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 15-19 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-c4W00vYyMeo-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 15-19 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 15-19 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-c4W00vYyMeo-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 15-19 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 15-19 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-c4W00vYyMeo-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 15-19 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 15-19 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-c4W00vYyMeo-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 15-19 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 15-19 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[T3]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-pqQ7yCwgZ9D-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 15-19 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 15-19 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-pqQ7yCwgZ9D-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 15-19 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 15-19 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-pqQ7yCwgZ9D-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 15-19 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 15-19 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-pqQ7yCwgZ9D-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 15-19 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 15-19 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-pqQ7yCwgZ9D-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 15-19 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 15-19 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[U]</strong> 20-24 anos</td>
+						<td width="13%"><strong>[U1]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-oO1gdkh359i-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 20-24 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 20-24 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-oO1gdkh359i-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 20-24 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 20-24 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-oO1gdkh359i-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 20-24 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 20-24 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-oO1gdkh359i-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 20-24 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 20-24 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-oO1gdkh359i-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 20-24 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 20-24 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[U2]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-aQGJKV86Xnv-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 20-24 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 20-24 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-aQGJKV86Xnv-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 20-24 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 20-24 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-aQGJKV86Xnv-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 20-24 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 20-24 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-aQGJKV86Xnv-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 20-24 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 20-24 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-aQGJKV86Xnv-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 20-24 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 20-24 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[U3]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-dbYrcaRpuLe-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 20-24 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 20-24 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-dbYrcaRpuLe-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 20-24 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 20-24 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-dbYrcaRpuLe-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 20-24 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 20-24 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-dbYrcaRpuLe-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 20-24 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 20-24 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-dbYrcaRpuLe-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 20-24 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 20-24 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td colspan="3">&nbsp;</td>
+						<td style="text-align: center;">1&ordf; Vez testado</td>
+						<td style="text-align: center;">Posit.(+) no Passado</td>
+						<td style="text-align: center;">Nesta US</td>
+						<td style="text-align: center;">Outra US</td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[Y1]</strong> 25-29 anos</td>
+						<td width="13%"><strong>[Y2]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-SnlYbHVQFZe-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 25-29 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 25-29 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-SnlYbHVQFZe-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 25-29 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 25-29 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-SnlYbHVQFZe-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 25-29 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 25-29 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-SnlYbHVQFZe-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 25-29 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 25-29 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-SnlYbHVQFZe-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 25-29 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 25-29 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Y3]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-IzYlb8b8GDI-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 25-29 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 25-29 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-IzYlb8b8GDI-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 25-29 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 25-29 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-IzYlb8b8GDI-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 25-29 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 25-29 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-IzYlb8b8GDI-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 25-29 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 25-29 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-IzYlb8b8GDI-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 25-29 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 25-29 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Y4]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-d80Rt2mRtl8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 25-29 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 25-29 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-d80Rt2mRtl8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 25-29 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 25-29 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-d80Rt2mRtl8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 25-29 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 25-29 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-d80Rt2mRtl8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 25-29 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 25-29 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-d80Rt2mRtl8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 25-29 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 25-29 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[Y9]</strong> 30-34 anos</td>
+						<td width="13%"><strong>[Y10]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-SH2CzNRaYO8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 30-34 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 30-34 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-SH2CzNRaYO8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 30-34 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 30-34 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-SH2CzNRaYO8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 30-34 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 30-34 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-SH2CzNRaYO8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 30-34 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 30-34 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-SH2CzNRaYO8-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 30-34 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 30-34 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Y11]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-BdfaR6CxZXO-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 30-34 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 30-34 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-BdfaR6CxZXO-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 30-34 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 30-34 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-BdfaR6CxZXO-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 30-34 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 30-34 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-BdfaR6CxZXO-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 30-34 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 30-34 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-BdfaR6CxZXO-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 30-34 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 30-34 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Y12]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-rck7tHzkpvq-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 30-34 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 30-34 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-rck7tHzkpvq-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 30-34 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 30-34 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-rck7tHzkpvq-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 30-34 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 30-34 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-rck7tHzkpvq-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 30-34 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 30-34 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-rck7tHzkpvq-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 30-34 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 30-34 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[Y13]</strong> 35-39 anos</td>
+						<td width="13%"><strong>[Y14]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-M44AXCG9BQD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 35-39 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 35-39 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-M44AXCG9BQD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 35-39 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 35-39 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-M44AXCG9BQD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 35-39 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 35-39 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-M44AXCG9BQD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 35-39 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 35-39 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-M44AXCG9BQD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 35-39 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 35-39 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Y15]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-onoynygNSZm-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 35-39 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 35-39 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-onoynygNSZm-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 35-39 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 35-39 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-onoynygNSZm-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 35-39 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 35-39 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-onoynygNSZm-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 35-39 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 35-39 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-onoynygNSZm-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 35-39 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 35-39 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Y16]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-FssWHaVlI9z-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 35-39 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 35-39 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-FssWHaVlI9z-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 35-39 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 35-39 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-FssWHaVlI9z-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 35-39 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 35-39 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-FssWHaVlI9z-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 35-39 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 35-39 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-FssWHaVlI9z-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 35-39 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 35-39 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[Y17]</strong> 40-44 anos</td>
+						<td width="13%"><strong>[Y18]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-PajkVxORwqu-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 40-44 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 40-44 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-PajkVxORwqu-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 40-44 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 40-44 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-PajkVxORwqu-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 40-44 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 40-44 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-PajkVxORwqu-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 40-44 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 40-44 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-PajkVxORwqu-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 40-44 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 40-44 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Y19]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-KUL4whEML3n-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 40-44 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 40-44 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-KUL4whEML3n-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 40-44 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 40-44 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-KUL4whEML3n-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 40-44 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 40-44 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-KUL4whEML3n-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 40-44 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 40-44 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-KUL4whEML3n-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 40-44 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 40-44 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Y20]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-Wpi5Fue1xfL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 40-44 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 40-44 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-Wpi5Fue1xfL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 40-44 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 40-44 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-Wpi5Fue1xfL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 40-44 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 40-44 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-Wpi5Fue1xfL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 40-44 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 40-44 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-Wpi5Fue1xfL-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 40-44 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 40-44 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[Y21]</strong> 45-49 anos</td>
+						<td width="13%"><strong>[Y22]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-z0R4DmDXBJG-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 45-49 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 45-49 anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-z0R4DmDXBJG-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 45-49 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 45-49 anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-z0R4DmDXBJG-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 45-49 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 45-49 anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-z0R4DmDXBJG-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 45-49 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 45-49 anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-z0R4DmDXBJG-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 45-49 anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 45-49 anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Y23]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-qpS2EFkT38k-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 45-49 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 45-49 anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-qpS2EFkT38k-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 45-49 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 45-49 anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-qpS2EFkT38k-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 45-49 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 45-49 anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-qpS2EFkT38k-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 45-49 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 45-49 anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-qpS2EFkT38k-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 45-49 anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 45-49 anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[Y24]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-jomyGDMZPEJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 45-49 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 45-49 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-jomyGDMZPEJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 45-49 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 45-49 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-jomyGDMZPEJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 45-49 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 45-49 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-jomyGDMZPEJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 45-49 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 45-49 anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-jomyGDMZPEJ-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 45-49 anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 45-49 anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td rowspan="3"><strong>[W]</strong> 50 ou +anos</td>
+						<td width="13%"><strong>[W1]</strong> Positivo</td>
+						<td align="center"><input id="tFME2xpgKuc-XANmXB1vd2O-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 50 ou +anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 50 ou +anos, Positivo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-XANmXB1vd2O-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 50 ou +anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 50 ou +anos, Positivo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-XANmXB1vd2O-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 50 ou +anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 50 ou +anos, Positivo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-XANmXB1vd2O-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 50 ou +anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 50 ou +anos, Positivo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-XANmXB1vd2O-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 50 ou +anos, Positivo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 50 ou +anos, Positivo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[W2]</strong> Negativo</td>
+						<td align="center"><input id="tFME2xpgKuc-G7Cb7fZsp09-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 50 ou +anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV Feminino, 50 ou +anos, Negativo ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-G7Cb7fZsp09-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 50 ou +anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 50 ou +anos, Negativo ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-G7Cb7fZsp09-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 50 ou +anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 50 ou +anos, Negativo ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-G7Cb7fZsp09-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 50 ou +anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 50 ou +anos, Negativo ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-G7Cb7fZsp09-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 50 ou +anos, Negativo" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 50 ou +anos, Negativo ]" /></td>
+					</tr>
+					<tr>
+						<td><strong>[W3]</strong> Indeterminado</td>
+						<td align="center"><input id="tFME2xpgKuc-rtFMfMQZuYD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV Feminino, 50 ou +anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV Feminino, 50 ou +anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YxYnn48IQMt-rtFMfMQZuYD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 50 ou +anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Retestagem/1ª vez testagem) Feminino, 50 ou +anos, Indeterminado ]" /></td>
+						<td align="center"><input id="H3uV7tTTipI-rtFMfMQZuYD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 50 ou +anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Recusa/Positivo no passado) Feminino, 50 ou +anos, Indeterminado ]" /></td>
+						<td align="center"><input id="y3b9a8lsYpx-rtFMfMQZuYD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 50 ou +anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Nesta US) Feminino, 50 ou +anos, Indeterminado ]" /></td>
+						<td align="center"><input id="YvCiNnTTqF3-rtFMfMQZuYD-val" name="entryfield" style="width:40px;////" title="ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 50 ou +anos, Indeterminado" value="[ ATS-ACT: resultado de teste de HIV (Outra US) Feminino, 50 ou +anos, Indeterminado ]" /></td>
+					</tr>
+					<tr>
+						<td colspan="5">&nbsp;</td>
+						<td style="text-align: center;">1&ordf; Vez testado</td>
+						<td style="text-align: center;">Posit.(+) no Passado</td>
+						<td style="text-align: center;">Nesta US</td>
+						<td style="text-align: center;">Outra US</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="7"><span style="font-size:14px;">Observa&ccedil;&atilde;o:</span><br />
+			<input id="P2XrNaWstrB-jF6cd1dU990-val" name="entryfield" style="height:50px;////" title="ATS: observação" value="[ ATS: observação ]" /></td>
+		</tr>
+	</tbody>
+</table>
